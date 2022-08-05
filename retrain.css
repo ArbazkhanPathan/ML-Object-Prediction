@@ -1,0 +1,14 @@
+body
+{
+    
+    justify-content:center; 
+    align-items: center; 
+    min-height: 100vh;
+    background: rgb(107, 220, 228);
+}
+.video{
+    margin-left: 45%;
+}
+.buttons{
+    margin-left: 45%;
+}
